@@ -109,5 +109,10 @@ namespace MD5Hash
 			// Return the encrypted bytes from the memory stream. 
 			return combinedIvCt;
 		}
-	}
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

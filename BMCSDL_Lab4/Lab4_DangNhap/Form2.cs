@@ -16,7 +16,7 @@ namespace Lab4_DangNhap
 {
 	public partial class Form2 : Form
 	{
-		string conString = ConfigurationManager.ConnectionStrings["QLSV"].ConnectionString;
+		string conString = ConfigurationManager.ConnectionStrings["QLSVDG1"].ConnectionString;
 
 		public Form2()
 		{
